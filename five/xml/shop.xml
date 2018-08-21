@@ -1,0 +1,7 @@
+<root>
+    <item id="1" buycount="5000" spend="0.99" icon="" />
+    <item id="2" buycount="12000" spend="1.99" icon="" />
+    <item id="3" buycount="18000" spend="3.99" icon="" />
+    <item id="4" buycount="45000" spend="9.99" icon="" />
+    <item id="5" buycount="100000" spend="19.99" icon="" />
+</root>

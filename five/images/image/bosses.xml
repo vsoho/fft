@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8f0f4634199fd5cc5f8020469ae70103$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="bosses.png" width="512" height="512">
+    <sprite n="Boss001" x="384" y="128" w="128" h="128"/>
+    <sprite n="Boss002" x="256" y="128" w="128" h="128"/>
+    <sprite n="Boss003" x="128" y="384" w="128" h="128"/>
+    <sprite n="Boss004" x="128" y="256" w="128" h="128"/>
+    <sprite n="Boss005" x="128" y="128" w="128" h="128"/>
+    <sprite n="Boss006" x="384" y="0" w="128" h="128"/>
+    <sprite n="Boss007" x="256" y="0" w="128" h="128"/>
+    <sprite n="Boss008" x="128" y="0" w="128" h="128"/>
+    <sprite n="Boss009" x="0" y="384" w="128" h="128"/>
+    <sprite n="Boss010" x="0" y="256" w="128" h="128"/>
+    <sprite n="Boss011" x="0" y="128" w="128" h="128"/>
+    <sprite n="Boss012" x="0" y="0" w="128" h="128"/>
+    <sprite n="Bosszi001" x="384" y="446" w="128" h="38"/>
+    <sprite n="Bosszi002" x="256" y="446" w="128" h="38"/>
+    <sprite n="Bosszi003" x="384" y="408" w="128" h="38"/>
+    <sprite n="Bosszi004" x="256" y="408" w="128" h="38"/>
+    <sprite n="Bosszi005" x="384" y="370" w="128" h="38"/>
+    <sprite n="Bosszi006" x="256" y="370" w="128" h="38"/>
+    <sprite n="Bosszi007" x="384" y="332" w="128" h="38"/>
+    <sprite n="Bosszi008" x="256" y="332" w="128" h="38"/>
+    <sprite n="Bosszi009" x="384" y="294" w="128" h="38"/>
+    <sprite n="Bosszi010" x="256" y="294" w="128" h="38"/>
+    <sprite n="Bosszi011" x="384" y="256" w="128" h="38"/>
+    <sprite n="Bosszi012" x="256" y="256" w="128" h="38"/>
+</TextureAtlas>

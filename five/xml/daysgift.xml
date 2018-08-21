@@ -1,0 +1,9 @@
+<root>
+    <item id="1" desc="Daily level challenge" finishnum="10" gold_num="500" />
+    <item id="2" desc="Cumulative eliminating 300 Fire Element everday" finishnum="300" gold_num="100" />
+    <item id="3" desc="Cumulative eliminating 300 Light Element everday" finishnum="300" gold_num="100" />
+    <item id="4" desc="Cumulative eliminating 300 Thunder Element everday" finishnum="300" gold_num="100" />
+    <item id="5" desc="Cumulative eliminating 300 Water Element everday" finishnum="300" gold_num="100" />
+    <item id="6" desc="Cumulative eliminating 300 Earth Element everday" finishnum="300" gold_num="100" />
+    <item id="7" desc="For any cash recharge" finishnum="1" gold_num="3000" />
+</root>

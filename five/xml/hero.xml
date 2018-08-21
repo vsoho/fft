@@ -1,0 +1,9 @@
+<root>
+    <item id="1" name="Athena" lv="1" bodypic="" headpic="" unlock="0" skill="1" desc="Upgrade to increse the chance of all elements' base damage and  gold." />
+    <item id="2" name="Poseidon" lv="1" bodypic="" headpic="" unlock="4999" skill="2" desc="Poseidon has the chance to appear,eliminate it and the same row elements disappear." />
+    <item id="3" name="Gaea" lv="1" bodypic="" headpic="" unlock="6999" skill="3" desc="Gaia has the chance to appear, eliminate it and 9 squares around disappear simultaneously." />
+    <item id="4" name="Apollo" lv="1" bodypic="" headpic="" unlock="9999" skill="4" desc="Apollo has the chance to appear,eliminate it and the same column elements disappear simultaneously." />
+    <item id="5" name="Hephaestus" lv="1" bodypic="" headpic="" unlock="12999" skill="5" desc="Hephaestus has the chance to appear, eliminate it and elements in the same column and row  disappear simultaneously." />
+    <item id="6" name="Zeus" lv="1" bodypic="" headpic="" unlock="6999" skill="6" desc="Zeus has the chance to appear, eliminate it,then the full- screen same color elements disappear simultaneously and enhance A 2-fold increased ATK." />
+    <item id="7" name="Hades" lv="1" bodypic="" headpic="" unlock="19999" skill="7" desc="Hades has the chance to appear,eliminate it and the full- screen  elements disappear simultaneously." />
+</root>

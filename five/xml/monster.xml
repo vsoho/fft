@@ -1,0 +1,122 @@
+<root>
+    <item id="1" name="Unicorns" lv="1" headpic="1" skill="1" skillnum="10" health="300" desc="Cyclops" />
+    <item id="2" name="Unicorns" lv="2" headpic="1" skill="1" skillnum="10" health="320" desc="" />
+    <item id="3" name="Unicorns" lv="3" headpic="1" skill="1" skillnum="10" health="350" desc="" />
+    <item id="4" name="Unicorns" lv="4" headpic="1" skill="1" skillnum="12" health="380" desc="" />
+    <item id="5" name="Unicorns" lv="5" headpic="1" skill="1" skillnum="12" health="420" desc="" />
+    <item id="6" name="Unicorns" lv="6" headpic="1" skill="1" skillnum="12" health="460" desc="" />
+    <item id="7" name="Unicorns" lv="7" headpic="1" skill="1" skillnum="15" health="500" desc="" />
+    <item id="8" name="Unicorns" lv="8" headpic="1" skill="1" skillnum="15" health="600" desc="" />
+    <item id="9" name="Unicorns" lv="9" headpic="1" skill="1" skillnum="15" health="700" desc="" />
+    <item id="10" name="Unicorns" lv="10" headpic="1" skill="1" skillnum="18" health="800" desc="" />
+    <item id="11" name="Cyclops" lv="1" headpic="2" skill="1" skillnum="18" health="900" desc="" />
+    <item id="12" name="Cyclops" lv="2" headpic="2" skill="1" skillnum="20" health="1000" desc="" />
+    <item id="13" name="Cyclops" lv="3" headpic="2" skill="1" skillnum="10" health="1200" desc="描述暂缺" />
+    <item id="14" name="Cyclops" lv="4" headpic="2" skill="1" skillnum="10" health="1500" desc="" />
+    <item id="15" name="Cyclops" lv="5" headpic="2" skill="1" skillnum="10" health="1800" desc="" />
+    <item id="16" name="Cyclops" lv="6" headpic="2" skill="1" skillnum="12" health="2100" desc="" />
+    <item id="17" name="Cyclops" lv="7" headpic="2" skill="1" skillnum="12" health="2400" desc="" />
+    <item id="18" name="Cyclops" lv="8" headpic="2" skill="1" skillnum="12" health="2800" desc="" />
+    <item id="19" name="Cyclops" lv="9" headpic="2" skill="1" skillnum="15" health="3200" desc="" />
+    <item id="20" name="Cyclops" lv="10" headpic="2" skill="1" skillnum="15" health="3600" desc="" />
+    <item id="21" name="Cerberus" lv="1" headpic="3" skill="1" skillnum="15" health="4000" desc="" />
+    <item id="22" name="Cerberus" lv="2" headpic="3" skill="1" skillnum="18" health="4500" desc="" />
+    <item id="23" name="Cerberus" lv="3" headpic="3" skill="1" skillnum="18" health="5000" desc="" />
+    <item id="24" name="Cerberus" lv="4" headpic="3" skill="1" skillnum="20" health="5500" desc="" />
+    <item id="25" name="Cerberus" lv="5" headpic="3" skill="1" skillnum="10" health="6000" desc="描述暂缺" />
+    <item id="26" name="Cerberus" lv="6" headpic="3" skill="1" skillnum="10" health="6600" desc="" />
+    <item id="27" name="Cerberus" lv="7" headpic="3" skill="1" skillnum="10" health="7200" desc="" />
+    <item id="28" name="Cerberus" lv="8" headpic="3" skill="1" skillnum="12" health="7800" desc="" />
+    <item id="29" name="Cerberus" lv="9" headpic="3" skill="1" skillnum="12" health="8600" desc="" />
+    <item id="30" name="Cerberus" lv="10" headpic="3" skill="1" skillnum="12" health="9500" desc="" />
+    <item id="31" name="Griffon" lv="1" headpic="4" skill="1" skillnum="15" health="11000" desc="" />
+    <item id="32" name="Griffon" lv="2" headpic="4" skill="1" skillnum="15" health="12000" desc="" />
+    <item id="33" name="Griffon" lv="3" headpic="4" skill="1" skillnum="15" health="13000" desc="" />
+    <item id="34" name="Griffon" lv="4" headpic="4" skill="1" skillnum="18" health="14000" desc="" />
+    <item id="35" name="Griffon" lv="5" headpic="4" skill="1" skillnum="18" health="15000" desc="" />
+    <item id="36" name="Griffon" lv="6" headpic="4" skill="1" skillnum="20" health="18000" desc="" />
+    <item id="37" name="Griffon" lv="7" headpic="4" skill="1" skillnum="10" health="19000" desc="描述暂缺" />
+    <item id="38" name="Griffon" lv="8" headpic="4" skill="1" skillnum="10" health="20000" desc="" />
+    <item id="39" name="Griffon" lv="9" headpic="4" skill="1" skillnum="10" health="21000" desc="" />
+    <item id="40" name="Griffon" lv="10" headpic="4" skill="1" skillnum="12" health="22000" desc="" />
+    <item id="41" name="Mermaid" lv="1" headpic="5" skill="1" skillnum="12" health="23000" desc="" />
+    <item id="42" name="Mermaid" lv="2" headpic="5" skill="1" skillnum="12" health="24000" desc="" />
+    <item id="43" name="Mermaid" lv="3" headpic="5" skill="1" skillnum="15" health="25000" desc="" />
+    <item id="44" name="Mermaid" lv="4" headpic="5" skill="1" skillnum="15" health="26000" desc="" />
+    <item id="45" name="Mermaid" lv="5" headpic="5" skill="1" skillnum="15" health="27000" desc="" />
+    <item id="46" name="Mermaid" lv="6" headpic="5" skill="1" skillnum="18" health="28000" desc="" />
+    <item id="47" name="Mermaid" lv="7" headpic="5" skill="1" skillnum="18" health="29000" desc="" />
+    <item id="48" name="Mermaid" lv="8" headpic="5" skill="1" skillnum="20" health="30000" desc="" />
+    <item id="49" name="Mermaid" lv="9" headpic="5" skill="1" skillnum="10" health="31000" desc="描述暂缺" />
+    <item id="50" name="Mermaid" lv="10" headpic="5" skill="1" skillnum="10" health="32000" desc="" />
+    <item id="51" name="Minotaur" lv="1" headpic="6" skill="1" skillnum="10" health="33000" desc="" />
+    <item id="52" name="Minotaur" lv="2" headpic="6" skill="1" skillnum="12" health="34000" desc="" />
+    <item id="53" name="Minotaur" lv="3" headpic="6" skill="1" skillnum="12" health="35000" desc="" />
+    <item id="54" name="Minotaur" lv="4" headpic="6" skill="1" skillnum="12" health="36000" desc="" />
+    <item id="55" name="Minotaur" lv="5" headpic="6" skill="1" skillnum="15" health="37000" desc="" />
+    <item id="56" name="Minotaur" lv="6" headpic="6" skill="1" skillnum="15" health="38000" desc="" />
+    <item id="57" name="Minotaur" lv="7" headpic="6" skill="1" skillnum="15" health="39000" desc="" />
+    <item id="58" name="Minotaur" lv="8" headpic="6" skill="1" skillnum="18" health="40000" desc="" />
+    <item id="59" name="Minotaur" lv="9" headpic="6" skill="1" skillnum="18" health="41000" desc="" />
+    <item id="60" name="Minotaur" lv="10" headpic="6" skill="1" skillnum="20" health="42000" desc="" />
+    <item id="61" name="Arak Nirvan" lv="1" headpic="7" skill="1" skillnum="10" health="43000" desc="描述暂缺" />
+    <item id="62" name="Arak Nirvan" lv="2" headpic="7" skill="1" skillnum="10" health="44000" desc="" />
+    <item id="63" name="Arak Nirvan" lv="3" headpic="7" skill="1" skillnum="10" health="45000" desc="" />
+    <item id="64" name="Arak Nirvan" lv="4" headpic="7" skill="1" skillnum="12" health="46000" desc="" />
+    <item id="65" name="Arak Nirvan" lv="5" headpic="7" skill="1" skillnum="12" health="47000" desc="" />
+    <item id="66" name="Arak Nirvan" lv="6" headpic="7" skill="1" skillnum="12" health="48000" desc="" />
+    <item id="67" name="Arak Nirvan" lv="7" headpic="7" skill="1" skillnum="15" health="49000" desc="" />
+    <item id="68" name="Arak Nirvan" lv="8" headpic="7" skill="1" skillnum="15" health="50000" desc="" />
+    <item id="69" name="Arak Nirvan" lv="9" headpic="7" skill="1" skillnum="15" health="51000" desc="" />
+    <item id="70" name="Arak Nirvan" lv="10" headpic="7" skill="1" skillnum="18" health="52000" desc="" />
+    <item id="71" name="Phoenix" lv="1" headpic="8" skill="1" skillnum="18" health="53000" desc="" />
+    <item id="72" name="Phoenix" lv="2" headpic="8" skill="1" skillnum="20" health="54000" desc="" />
+    <item id="73" name="Phoenix" lv="3" headpic="8" skill="1" skillnum="20" health="55000" desc="" />
+    <item id="74" name="Phoenix" lv="4" headpic="8" skill="1" skillnum="20" health="56000" desc="" />
+    <item id="75" name="Phoenix" lv="5" headpic="8" skill="1" skillnum="22" health="57000" desc="" />
+    <item id="76" name="Phoenix" lv="6" headpic="8" skill="1" skillnum="22" health="58000" desc="" />
+    <item id="77" name="Phoenix" lv="7" headpic="8" skill="1" skillnum="22" health="59000" desc="" />
+    <item id="78" name="Phoenix" lv="8" headpic="8" skill="1" skillnum="24" health="60000" desc="" />
+    <item id="79" name="Phoenix" lv="9" headpic="8" skill="1" skillnum="24" health="61000" desc="" />
+    <item id="80" name="Phoenix" lv="10" headpic="8" skill="1" skillnum="24" health="62000" desc="" />
+    <item id="81" name="Setts" lv="1" headpic="9" skill="1" skillnum="26" health="63000" desc="" />
+    <item id="82" name="Setts" lv="2" headpic="9" skill="1" skillnum="26" health="64000" desc="" />
+    <item id="83" name="Setts" lv="3" headpic="9" skill="1" skillnum="26" health="65000" desc="" />
+    <item id="84" name="Setts" lv="4" headpic="9" skill="1" skillnum="28" health="66000" desc="" />
+    <item id="85" name="Setts" lv="5" headpic="9" skill="1" skillnum="28" health="67000" desc="" />
+    <item id="86" name="Setts" lv="6" headpic="9" skill="1" skillnum="28" health="68000" desc="" />
+    <item id="87" name="Setts" lv="7" headpic="9" skill="1" skillnum="30" health="69000" desc="" />
+    <item id="88" name="Setts" lv="8" headpic="9" skill="1" skillnum="30" health="70000" desc="" />
+    <item id="89" name="Setts" lv="9" headpic="9" skill="1" skillnum="30" health="71000" desc="" />
+    <item id="90" name="Setts" lv="10" headpic="9" skill="1" skillnum="32" health="72000" desc="" />
+    <item id="91" name="Sirens" lv="1" headpic="10" skill="1" skillnum="32" health="73000" desc="" />
+    <item id="92" name="Sirens" lv="2" headpic="10" skill="1" skillnum="32" health="74000" desc="" />
+    <item id="93" name="Sirens" lv="3" headpic="10" skill="1" skillnum="34" health="75000" desc="" />
+    <item id="94" name="Sirens" lv="4" headpic="10" skill="1" skillnum="34" health="76000" desc="" />
+    <item id="95" name="Sirens" lv="5" headpic="10" skill="1" skillnum="34" health="77000" desc="" />
+    <item id="96" name="Sirens" lv="6" headpic="10" skill="1" skillnum="36" health="78000" desc="" />
+    <item id="97" name="Sirens" lv="7" headpic="10" skill="1" skillnum="36" health="79000" desc="" />
+    <item id="98" name="Sirens" lv="8" headpic="10" skill="1" skillnum="36" health="80000" desc="" />
+    <item id="99" name="Sirens" lv="9" headpic="10" skill="1" skillnum="38" health="81000" desc="" />
+    <item id="100" name="Sirens" lv="10" headpic="10" skill="1" skillnum="38" health="82000" desc="" />
+    <item id="101" name="Amphisbana" lv="1" headpic="11" skill="1" skillnum="38" health="83000" desc="" />
+    <item id="102" name="Amphisbana" lv="2" headpic="11" skill="1" skillnum="40" health="84000" desc="" />
+    <item id="103" name="Amphisbana" lv="3" headpic="11" skill="1" skillnum="40" health="85000" desc="" />
+    <item id="104" name="Amphisbana" lv="4" headpic="11" skill="1" skillnum="40" health="86000" desc="" />
+    <item id="105" name="Amphisbana" lv="5" headpic="11" skill="1" skillnum="42" health="87000" desc="" />
+    <item id="106" name="Amphisbana" lv="6" headpic="11" skill="1" skillnum="42" health="88000" desc="" />
+    <item id="107" name="Amphisbana" lv="7" headpic="11" skill="1" skillnum="42" health="89000" desc="" />
+    <item id="108" name="Amphisbana" lv="8" headpic="11" skill="1" skillnum="44" health="90000" desc="" />
+    <item id="109" name="Amphisbana" lv="9" headpic="11" skill="1" skillnum="44" health="93000" desc="" />
+    <item id="110" name="Amphisbana" lv="10" headpic="11" skill="1" skillnum="44" health="96000" desc="" />
+    <item id="111" name="Hydera" lv="1" headpic="12" skill="1" skillnum="46" health="99000" desc="" />
+    <item id="112" name="Hydera" lv="2" headpic="12" skill="1" skillnum="46" health="103000" desc="" />
+    <item id="113" name="Hydera" lv="3" headpic="12" skill="1" skillnum="46" health="107000" desc="" />
+    <item id="114" name="Hydera" lv="4" headpic="12" skill="1" skillnum="48" health="110000" desc="" />
+    <item id="115" name="Hydera" lv="5" headpic="12" skill="1" skillnum="48" health="115000" desc="" />
+    <item id="116" name="Hydera" lv="6" headpic="12" skill="1" skillnum="48" health="120000" desc="" />
+    <item id="117" name="Hydera" lv="7" headpic="12" skill="1" skillnum="50" health="125000" desc="" />
+    <item id="118" name="Hydera" lv="8" headpic="12" skill="1" skillnum="50" health="130000" desc="" />
+    <item id="119" name="Hydera" lv="9" headpic="12" skill="1" skillnum="50" health="135000" desc="" />
+    <item id="120" name="Hydera" lv="10" headpic="12" skill="1" skillnum="52" health="150000" desc="" />
+</root>
